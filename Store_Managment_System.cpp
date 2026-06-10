@@ -13,6 +13,7 @@ private:
     int quantity;
 
 public:
+//default constructor
     Product()
     {
         category = "";
