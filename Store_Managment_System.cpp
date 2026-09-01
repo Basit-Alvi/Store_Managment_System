@@ -4,7 +4,7 @@
 #include <algorithm>
 using namespace std;
 
-// ================== PRODUCT CLASS ===================
+// ================== PRODUCT CLASS ====================
 class Product
 {
 private:
